@@ -1,10 +1,10 @@
 {
-  "name": "taskforcedev/structured-data",
+  "name": "paladindigital/structured-data",
   "description": "Framework agnosting package to generate structured-data snippets in json-ld format.",
   "authors": [
     {
-      "name": "taskforcedev",
-      "email": "taskforce2eu@gmail.com"
+      "name": "David Craig",
+      "email": "david@davidcraig.eu"
     }
   ],
   "license": "GPL-3.0",
