@@ -1,6 +1,6 @@
-<?php namespace Taskforcedev\StructuredData;
+<?php namespace PaladinDigital\StructuredData;
 
-use Taskforcedev\StructuredData\Types\SchemaTypeInterface;
+use PaladinDigital\StructuredData\Types\SchemaTypeInterface;
 
 class Jsonld
 {

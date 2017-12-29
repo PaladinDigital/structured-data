@@ -1,7 +1,7 @@
-<?php namespace Taskforcedev\StructuredData\Types\SchemaOrg\Thing\CreativeWork\Article;
+<?php namespace PaladinDigital\StructuredData\Types\SchemaOrg\Thing\CreativeWork\Article;
 
-use Taskforcedev\StructuredData\Types\SchemaTypeInterface;
-use Taskforcedev\StructuredData\Types\SchemaOrg\Thing\CreativeWork\Article;
+use PaladinDigital\StructuredData\Types\SchemaTypeInterface;
+use PaladinDigital\StructuredData\Types\SchemaOrg\Thing\CreativeWork\Article;
 
 class NewsArticle extends Article implements SchemaTypeInterface
 {

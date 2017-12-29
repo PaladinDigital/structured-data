@@ -1,6 +1,6 @@
-<?php namespace Taskforcedev\StructuredData\Types\SchemaOrg\Thing\CreativeWork\Game;
+<?php namespace PaladinDigital\StructuredData\Types\SchemaOrg\Thing\CreativeWork\Game;
 
-use Taskforcedev\StructuredData\Types\SchemaTypeInterface;
+use PaladinDigital\StructuredData\Types\SchemaTypeInterface;
 
 class VideoGame implements SchemaTypeInterface
 {

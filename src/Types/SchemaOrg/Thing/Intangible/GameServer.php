@@ -1,7 +1,7 @@
-<?php namespace Taskforcedev\StructuredData\Types\SchemaOrg\Thing\Intangible;
+<?php namespace PaladinDigital\StructuredData\Types\SchemaOrg\Thing\Intangible;
 
-use Taskforcedev\StructuredData\Types\SchemaOrg\Thing;
-use Taskforcedev\StructuredData\Types\SchemaTypeInterface;
+use PaladinDigital\StructuredData\Types\SchemaOrg\Thing;
+use PaladinDigital\StructuredData\Types\SchemaTypeInterface;
 
 class GameServer extends Thing implements SchemaTypeInterface
 {

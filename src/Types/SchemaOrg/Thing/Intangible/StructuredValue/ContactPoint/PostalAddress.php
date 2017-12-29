@@ -1,7 +1,7 @@
-<?php namespace Taskforcedev\StructuredData\Types\SchemaOrg\Thing\Intangible\StructuredValue\ContactPoint;
+<?php namespace PaladinDigital\StructuredData\Types\SchemaOrg\Thing\Intangible\StructuredValue\ContactPoint;
 
-use Taskforcedev\StructuredData\Types\SchemaOrg\Thing\Intangible\StructuredValue\ContactPoint;
-use Taskforcedev\StructuredData\Types\SchemaTypeInterface;
+use PaladinDigital\StructuredData\Types\SchemaOrg\Thing\Intangible\StructuredValue\ContactPoint;
+use PaladinDigital\StructuredData\Types\SchemaTypeInterface;
 
 class PostalAddress extends ContactPoint implements SchemaTypeInterface
 {

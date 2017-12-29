@@ -1,7 +1,7 @@
-<?php namespace Taskforcedev\StructuredData\Types\SchemaOrg\Thing\Organization;
+<?php namespace PaladinDigital\StructuredData\Types\SchemaOrg\Thing\Organization;
 
-use Taskforcedev\StructuredData\Types\SchemaOrg\Thing\Organization;
-use Taskforcedev\StructuredData\Types\SchemaTypeInterface;
+use PaladinDigital\StructuredData\Types\SchemaOrg\Thing\Organization;
+use PaladinDigital\StructuredData\Types\SchemaTypeInterface;
 
 class SportsOrganization extends Organization implements SchemaTypeInterface
 {

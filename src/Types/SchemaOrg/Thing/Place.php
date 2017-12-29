@@ -1,7 +1,7 @@
-<?php namespace Taskforcedev\StructuredData\Types\SchemaOrg\Thing;
+<?php namespace PaladinDigital\StructuredData\Types\SchemaOrg\Thing;
 
-use Taskforcedev\StructuredData\Types\SchemaOrg\Thing;
-use Taskforcedev\StructuredData\Types\SchemaTypeInterface;
+use PaladinDigital\StructuredData\Types\SchemaOrg\Thing;
+use PaladinDigital\StructuredData\Types\SchemaTypeInterface;
 
 class Place extends Thing implements SchemaTypeInterface
 {

@@ -1,6 +1,6 @@
-<?php namespace Taskforcedev\StructuredData\Types\SchemaOrg\Thing\Event;
+<?php namespace PaladinDigital\StructuredData\Types\SchemaOrg\Thing\Event;
 
-use Taskforcedev\StructuredData\Types\SchemaTypeInterface;
+use PaladinDigital\StructuredData\Types\SchemaTypeInterface;
 
 class SportsEvent implements SchemaTypeInterface
 {

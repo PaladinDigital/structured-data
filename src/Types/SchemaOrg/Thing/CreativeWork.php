@@ -1,10 +1,10 @@
 <?php
 
-namespace Taskforcedev\StructuredData\Types\SchemaOrg\Thing;
+namespace PaladinDigital\StructuredData\Types\SchemaOrg\Thing;
 
-use Taskforcedev\StructuredData\Types\SchemaTypeInterface;
-use Taskforcedev\StructuredData\Interfaces\SchemaOrg\CreativeWorkAuthorInterface;
-use Taskforcedev\StructuredData\Types\SchemaOrg\Thing;
+use PaladinDigital\StructuredData\Types\SchemaTypeInterface;
+use PaladinDigital\StructuredData\Interfaces\SchemaOrg\CreativeWorkAuthorInterface;
+use PaladinDigital\StructuredData\Types\SchemaOrg\Thing;
 
 class CreativeWork extends Thing implements SchemaTypeInterface
 {

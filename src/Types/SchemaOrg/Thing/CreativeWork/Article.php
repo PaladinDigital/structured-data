@@ -1,9 +1,9 @@
 <?php
 
-namespace Taskforcedev\StructuredData\Types\SchemaOrg\Thing\CreativeWork;
+namespace PaladinDigital\StructuredData\Types\SchemaOrg\Thing\CreativeWork;
 
-use Taskforcedev\StructuredData\Types\SchemaOrg\Thing\CreativeWork;
-use Taskforcedev\StructuredData\Types\SchemaTypeInterface;
+use PaladinDigital\StructuredData\Types\SchemaOrg\Thing\CreativeWork;
+use PaladinDigital\StructuredData\Types\SchemaTypeInterface;
 
 class Article extends CreativeWork implements SchemaTypeInterface
 {

@@ -1,6 +1,6 @@
-<?php namespace Taskforcedev\StructuredData\Types\SchemaOrg;
+<?php namespace PaladinDigital\StructuredData\Types\SchemaOrg;
 
-use Taskforcedev\StructuredData\Types\SchemaTypeInterface;
+use PaladinDigital\StructuredData\Types\SchemaTypeInterface;
 
 class Thing implements SchemaTypeInterface
 {

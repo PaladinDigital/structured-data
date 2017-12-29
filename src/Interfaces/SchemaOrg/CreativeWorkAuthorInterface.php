@@ -1,6 +1,6 @@
 <?php
 
-namespace Taskforcedev\StructuredData\Interfaces\SchemaOrg;
+namespace PaladinDigital\StructuredData\Interfaces\SchemaOrg;
 
 interface CreativeWorkAuthorInterface
 {

@@ -1,8 +1,8 @@
-<?php namespace Taskforcedev\StructuredData\Types\SchemaOrg\Thing;
+<?php namespace PaladinDigital\StructuredData\Types\SchemaOrg\Thing;
 
-use Taskforcedev\StructuredData\Types\SchemaOrg\Thing;
-use Taskforcedev\StructuredData\Types\SchemaTypeInterface;
-use Taskforcedev\StructuredData\Interfaces\SchemaOrg\CreativeWorkAuthorInterface;
+use PaladinDigital\StructuredData\Types\SchemaOrg\Thing;
+use PaladinDigital\StructuredData\Types\SchemaTypeInterface;
+use PaladinDigital\StructuredData\Interfaces\SchemaOrg\CreativeWorkAuthorInterface;
 
 class Organization extends Thing implements SchemaTypeInterface, CreativeWorkAuthorInterface
 {

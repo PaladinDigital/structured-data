@@ -1,4 +1,4 @@
-<?php namespace Taskforcedev\StructuredData\Types;
+<?php namespace PaladinDigital\StructuredData\Types;
 
 interface SchemaTypeInterface
 {

@@ -1,8 +1,8 @@
-<?php namespace Taskforcedev\StructuredData\Types\SchemaOrg\Thing\Place;
+<?php namespace PaladinDigital\StructuredData\Types\SchemaOrg\Thing\Place;
 
-use Taskforcedev\StructuredData\Types\SchemaOrg\Thing\Organization;
+use PaladinDigital\StructuredData\Types\SchemaOrg\Thing\Organization;
 
-use Taskforcedev\StructuredData\Types\SchemaTypeInterface;
+use PaladinDigital\StructuredData\Types\SchemaTypeInterface;
 
 class LocalBusiness extends Place implements SchemaTypeInterface
 {
