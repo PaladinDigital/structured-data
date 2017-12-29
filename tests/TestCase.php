@@ -1,4 +1,4 @@
-<?php namespace Taskforcedev\StructuredData\Tests;
+<?php namespace PaladinDigital\StructuredData\Tests;
 
 use \PHPUnit_Framework_TestCase;
 

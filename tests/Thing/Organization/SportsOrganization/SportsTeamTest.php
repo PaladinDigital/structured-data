@@ -1,8 +1,8 @@
-<?php namespace Taskforcedev\StructuredData\Tests\Thing\Organization\SportsOrganization;
+<?php namespace PaladinDigital\StructuredData\Tests\Thing\Organization\SportsOrganization;
 
-use Taskforcedev\StructuredData\Types\SchemaOrg\Thing\Organization\SportsOrganization\SportsTeam;
-use Taskforcedev\StructuredData\Types\SchemaOrg\Thing\Person;
-use Taskforcedev\StructuredData\Tests\TestCase;
+use PaladinDigital\StructuredData\Types\SchemaOrg\Thing\Organization\SportsOrganization\SportsTeam;
+use PaladinDigital\StructuredData\Types\SchemaOrg\Thing\Person;
+use PaladinDigital\StructuredData\Tests\TestCase;
 
 class SportsTeamTest extends TestCase
 {
@@ -11,7 +11,7 @@ class SportsTeamTest extends TestCase
         $sportsTeam = new SportsTeam();
         $class = get_class($sportsTeam);
 
-        $this->assertEquals($class, 'Taskforcedev\StructuredData\Types\SchemaOrg\Thing\Organization\SportsOrganization\SportsTeam', 'Test namespace is correct');
+        $this->assertEquals($class, 'PaladinDigital\StructuredData\Types\SchemaOrg\Thing\Organization\SportsOrganization\SportsTeam', 'Test namespace is correct');
     }
 
     public function testSportsTeamWithoutDataIsCorrect()

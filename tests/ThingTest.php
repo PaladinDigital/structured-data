@@ -1,7 +1,7 @@
-<?php namespace Taskforcedev\StructuredData\Tests\Thing\Organization;
+<?php namespace PaladinDigital\StructuredData\Tests\Thing\Organization;
 
-use Taskforcedev\StructuredData\Types\SchemaOrg\Thing;
-use Taskforcedev\StructuredData\Tests\TestCase;
+use PaladinDigital\StructuredData\Types\SchemaOrg\Thing;
+use PaladinDigital\StructuredData\Tests\TestCase;
 
 class ThingTest extends TestCase
 {
@@ -10,7 +10,7 @@ class ThingTest extends TestCase
         $thing = new Thing();
         $class = get_class($thing);
 
-        $this->assertEquals($class, 'Taskforcedev\StructuredData\Types\SchemaOrg\Thing', 'Test namespace is correct');
+        $this->assertEquals($class, 'PaladinDigital\StructuredData\Types\SchemaOrg\Thing', 'Test namespace is correct');
     }
 
     public function testThingRequiresAName()
