@@ -3,6 +3,10 @@ A framework agnostic package to assist in creating valid Schema.org Json-LD.
 
 [![Build Status](https://travis-ci.org/taskforcedev/structured-data.svg?branch=master)](https://travis-ci.org/taskforcedev/structured-data)
 
+## Installation
+
+    composer require paladindigital/structured-data:^1.*
+
 ## Usage
 
 The package contains a class for each (implemented) schema.org type (if the type you desire isn't implemented feel free to raise a pull request or issue).
