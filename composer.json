@@ -21,8 +21,8 @@
   },
   "autoload": {
     "psr-4": {
-      "Taskforcedev\\StructuredData\\": "src/",
-      "Taskforcedev\\StructuredData\\Tests\\": "tests/"
+      "PaladinDigital\\StructuredData\\": "src/",
+      "PaladinDigital\\StructuredData\\Tests\\": "tests/"
     }
   },
   "minimum-stability": "stable"
