@@ -5,7 +5,7 @@ A framework agnostic package to assist in creating valid Schema.org Json-LD.
 
 ## Installation
 
-    composer require paladindigital/structured-data:^1.*
+    composer require paladindigital/structured-data
 
 ## Usage
 
